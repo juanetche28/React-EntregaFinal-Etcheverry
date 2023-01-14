@@ -1,0 +1,8 @@
+[
+    {"id":1, "nombre":"Esencias Aromaticas", "descripcion":"Esencias Aromaticas de muchas Fragancias", "imagen":"/images/esencia.png", "precio":500, "stock":10, "Categoria":"Esencias"},
+    {"id":2, "nombre":"Perfuminas Textiles", "descripcion":"Perfuminas Textiles de muchas Fragancias", "imagen":"/images/perfuminas.jpg", "precio":1000, "stock":10, "Categoria":"Perfuminas"},
+    {"id":3, "nombre":"Aromatizadores de Ambientes", "descripcion":"Aromatizadores de ambientes de muchas Fragancias", "imagen":"/images/difusores.jpg", "precio":1700, "stock":10, "Categoria":"Aromatizadores"},
+    {"id":4, "nombre":"Hornillos de Vela", "descripcion":"Hornillos de Vela de muchos colores", "imagen":"/images/hornillos.jpg", "precio":1500, "stock":10, "Categoria":"Hornillos"},
+    {"id":5, "nombre":"Jabones Aromaticos", "descripcion":"Jabones Aromaticos para aromaterapia", "imagen":"/images/jabon.png", "precio":600, "stock":10, "Categoria":"Jabones"},
+    {"id":6, "nombre":"Aromatizadores de Ambientes", "descripcion":"Aromatizadores de ambientes de muchas Fragancias", "imagen":"/images/difusores2.jpg", "precio":1700, "stock":10, "Categoria":"Aromatizadores"}
+]
