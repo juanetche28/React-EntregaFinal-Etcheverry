@@ -10,6 +10,8 @@ body {
 .NavBar {
   color: white;
   background-color: chocolate;
+  align-items: center;
+  padding: 0.5rem;
 }
 
 .FontProducto {
@@ -34,3 +36,4 @@ body {
   color: black;
   font-weight: bold;
 }
+
