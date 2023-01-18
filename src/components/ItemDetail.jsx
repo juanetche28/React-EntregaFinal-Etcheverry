@@ -12,9 +12,9 @@ const ItemDetail = ({item}) => {
     return (
         <div className="row">
             <div className="col-md-4 offset-md-4 text-center">
-                <img src={item.imagen} className="img-fluid" alt={item.nombre}/>
-                <h1>{item.nombre}</h1>
-                <p>{item.descripcion}</p>
+                <img src={item.imagen} className="img-fluid BorderImg" alt={item.nombre}/>
+                <h1 className="FontDetalleTitulo">{item.nombre}</h1>
+                <p className="FontDetalle">{item.descripcion}</p>
                 <p>Stock: <b>{item.stock}</b> - Precio Unitario: <b>${item.precio}</b></p>
                 <ItemCount stock={item.stock} onAdd={onAdd}/>
             </div>

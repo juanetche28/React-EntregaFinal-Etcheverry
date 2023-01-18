@@ -11,3 +11,26 @@ body {
   color: white;
   background-color: chocolate;
 }
+
+.FontProducto {
+  font-family: 'Explora', cursive;
+  font-size: 2rem;
+}
+
+.FontDetalle {
+  font-family: 'Rowdies', cursive;
+}
+
+.FontDetalleTitulo {
+  font-family: 'Rowdies', cursive;
+  color: rgb(255, 95, 37); 
+}
+
+.BorderImg {
+  border: coral;
+}
+
+.buttonFinalizar:hover {
+  color: black;
+  font-weight: bold;
+}
